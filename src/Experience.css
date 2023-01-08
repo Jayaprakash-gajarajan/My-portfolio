@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.experience {
+    display: flex;
+    margin: 16px;
+    flex-direction: column;
+    border: 2px dotted white;
+    border-radius: 10px;
+    width: 320px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+    background-color: #191919;
+    overflow: hidden;
+}
+
+.experience-box-text {
+    margin: 0;
+    font-weight: 300;
+    font-size: 35px;
+}
+
+
+.experience>p {
+    font-family: "josefin sans", sans-serif;
+    font-size: 23px;
+    letter-spacing: 1px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 15px;
+}
+
+.experience>h1 {
+    margin-top: 50px;
+}
