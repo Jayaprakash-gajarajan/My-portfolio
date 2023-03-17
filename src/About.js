@@ -19,11 +19,11 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                Hi i'm Jayaprakash from Salem.Complete the Bachelor of Engineering(ECE)
-                in Government College of Engineering Dharmapuri.
+                Hi i'm Jayaprakash.G from Salem.Complete the Bachelor of Engineering(ECE)
+                in Government College of Engineering Dharmapuri(2018-2022).
               </p>
               <p className="about__text p__color">
-                Now Currently studying MERN stack developer Course in 
+                Now Currently Complete MERN stack developer Course in 
                 Guvi and gain more Knowledge about the programming.
               </p>
               <p className="about__text p__color">
@@ -38,8 +38,8 @@ function About() {
                 </span>
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href={resumeImg}>
-                  <button className="about btn pointer">Download Cv</button>
+                <a href="https://app.luminpdf.com/viewer/6413ec6dd6fe3f3fa32b9b34" target={"_blank"}>
+                  <button className="about btn pointer" >Open Cv</button>
                 </a>
                 <a href="#Contact">
                   <button className="about btn pointer">Hire Me</button>

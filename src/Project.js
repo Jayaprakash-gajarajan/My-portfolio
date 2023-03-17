@@ -32,7 +32,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Capstone Project</h5>
                      <h4 className="project__text">Project Management Tool</h4>
-                     <a href="https://github.com/Jayaprakash-gajarajan/capstone_project" className="project__btn">View Details</a>
+                     <a href="https://github.com/Jayaprakash-gajarajan/capstone_project" className="project__btn" target={"_blank"}>View Details</a>
                      </div>
                  </div>
              </div>
@@ -48,7 +48,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Simple Movie app</h5>
                      <h4 className="project__text">To design simple movie app in React js</h4>
-                     <a href="https://github.com/Jayaprakash-gajarajan/movie-1000" className="project__btn">View Details</a>
+                     <a href="https://github.com/Jayaprakash-gajarajan/movie-1000" className="project__btn" target={"_blank"}>View Details</a>
                      </div>
                  </div>
              </div>
@@ -64,7 +64,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Movie booking</h5>
                      <h4 className="project__text">Movie booking app</h4>
-                     <a href="https://github.com/Jayaprakash-gajarajan/test-1" className="project__btn">View Details</a>
+                     <a href="https://github.com/Jayaprakash-gajarajan/test-1" className="project__btn" target={"_blank"}>View Details</a>
                      </div>
                  </div>
              </div>
@@ -73,34 +73,34 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project2} alt="" className="project__img" />
+                             <img src={Project1} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">Weather</h5>
                      <h4 className="project__text">Getting the rest country Temperature</h4>
-                     <a href="https://github.com/Jayaprakash-gajarajan/temperature-task" className="project__btn">View Details</a>
+                     <a href="https://github.com/Jayaprakash-gajarajan/temperature-task" className="project__btn" target={"_blank"}>View Details</a>
                      </div>
                  </div>
              </div>
 
 
-             {/* <div className="col__3">
+             <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project3} alt="" className="project__img" />
+                             <img src={Project1} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Calculator</h5>
-                     <h4 className="project__text">To design a simple calculator</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h5 className="project__text">Library Management</h5>
+                     <h4 className="project__text">To design library books management</h4>
+                     <a href="https://github.com/Jayaprakash-gajarajan/React-task-7" className="project__btn" target={"_blank"}>View Details</a>
                      </div>
                  </div>
-             </div> */}
+             </div>
 
 
 
