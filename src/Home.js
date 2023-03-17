@@ -16,7 +16,7 @@ function Home() {
            {/* <a href="#Services"><li className='nav__items mx__15'>Services</li></a> */}
            <a href="#Skills"><li className='nav__items mx__15'>Skills</li></a>
            <a href="#exp"><li className='nav__items mx__15'>Experience</li></a>
-           <a href="#Portfolio"><li className='nav__items mx__15'>Portfolio</li></a>
+           <a href="#Portfolio"><li className='nav__items mx__15'>Projects</li></a>
            <a href="#Contact"><li className='nav__items mx__15'>Contact</li></a>
 
           </ul>

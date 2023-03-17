@@ -2,9 +2,10 @@
 
 .experience {
     display: flex;
-    margin: 16px;
+    margin: 6px;
     flex-direction: column;
     border: 2px dotted white;
+    /* padding: 30px; */
     border-radius: 10px;
     width: 320px;
     height: 250px;
@@ -20,7 +21,15 @@
     font-weight: 300;
     font-size: 35px;
 }
-
+@media only screen and (max-width: 1024px){
+    .experience{
+        display: flex;
+        flex-direction:column;
+        max-height: 100vh;
+        max-width: 100vh;
+      
+    }
+}
 
 .experience>p {
     font-family: "josefin sans", sans-serif;
