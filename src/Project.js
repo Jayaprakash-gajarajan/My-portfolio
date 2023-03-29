@@ -70,7 +70,7 @@ function Project() {
                      <h4 className="project__text">Movie booking app</h4>
                      <div>
                      <a href="https://github.com/Jayaprakash-gajarajan/test-1" className="project__btn" target={"_blank"}>Github Link</a>
-                     <a href="https://tourmaline-banoffee-bda31e.netlify.app/" className="project__btn" target={"_blank"}>Deploy URL</a>
+                     <a href="https://cool-starlight-b277af.netlify.app/" className="project__btn" target={"_blank"}>Deploy URL</a>
                      </div>
                      </div>
                  </div>
