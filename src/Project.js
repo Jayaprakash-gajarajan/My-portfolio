@@ -1,17 +1,17 @@
 import React from "react";
 import "./Project.css";
-import Project1 from './img/movie.jpg';
-import Project2 from './img/Weather.jpg';
-import Project3 from './img/calculator.jpg';
+import Project1 from './img/th.jpg';
+// import Project2 from './img/Weather.jpg';
+// import Project3 from './img/calculator.jpg';
 // import Project4 from './img/portfolio-4.jpg';
 
 function Project() {
   return (
     <div className="project component__space" id="Portfolio">
       <div className="heading">
-        <h1 className="heading">My Latest Project</h1>
+        <h1 className="heading">My Latest Projects</h1>
         <p className="heading p__color">
-           Design simple Beginer level Project that can help,
+           Design MEAR Stack Projects that can help,
         </p>
         <p className="heading p__color">
           to boost my confidence.
@@ -47,8 +47,8 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Simple Movie app</h5>
-                     <h4 className="project__text">To design simple movie app in React js</h4>
+                     <h5 className="project__text">Simple Movie App</h5>
+                     <h4 className="project__text">To Design Simple Movie App </h4>
                      <div className="button_box">
                      <a href="https://github.com/Jayaprakash-gajarajan/movie-1000" className="project__btn" target={"_blank"}>Github Link</a>
                      <a href="https://endearing-maamoul-133512.netlify.app/" className="project__btn" target={"_blank"}>Deploy URL</a>
@@ -86,7 +86,7 @@ function Project() {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">Library Management</h5>
-                     <h4 className="project__text">To design library books management</h4>
+                     <h4 className="project__text">To Design Library Books Management</h4>
                      <div>
                      <a href="https://github.com/Jayaprakash-gajarajan/React-task-7" className="project__btn" target={"_blank"}>Github Link</a>
                      <a href="https://heroic-heliotrope-9ac740.netlify.app/" className="project__btn" target={"_blank"}>Deploy URL</a>
@@ -105,7 +105,7 @@ function Project() {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">CRUD operations</h5>
-                     <h4 className="project__text">to create a from using curd operations</h4>
+                     <h4 className="project__text">To Design Form Using CURD Operations</h4>
                      <div>
                      <a href="https://github.com/Jayaprakash-gajarajan/React-task-4" className="project__btn" target={"_blank"}>Github Link</a>
                      <a href="https://darling-syrniki-efa4c5.netlify.app/" className="project__btn" target={"_blank"}>Deploy URL</a>

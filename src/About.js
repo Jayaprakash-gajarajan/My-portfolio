@@ -38,7 +38,7 @@ function About() {
                 </span>
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://app.luminpdf.com/viewer/6413ec6dd6fe3f3fa32b9b34" target={"_blank"}>
+                <a href="https://drive.google.com/file/d/1sBZPteTn_8gZ8dwTyw0a6pomgNm6aMwP/view?usp=sharing" target={"_blank"}>
                   <button className="about btn pointer" >Open Cv</button>
                 </a>
                 <a href="#Contact">
