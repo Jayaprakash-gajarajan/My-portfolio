@@ -28,7 +28,7 @@ function About() {
               </p>
               <p className="about__text p__color">
                 And now i'm looking for a job to enhance my skills.
-                My hobbies are playing cricket and watching good.
+                My hobbies are playing cricket and watching
                 songs
               </p>
               <p className="about__text p__color">
