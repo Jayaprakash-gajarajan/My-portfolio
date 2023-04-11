@@ -11,7 +11,7 @@ function Project() {
       <div className="heading">
         <h1 className="heading">My Latest Projects</h1>
         <p className="heading p__color">
-           Design MEAR Stack Projects that can help,
+           Design MERN Stack Projects that can help,
         </p>
         <p className="heading p__color">
           to boost my confidence.

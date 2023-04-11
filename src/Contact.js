@@ -3,6 +3,7 @@ import './Contact.css';
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { send } from '@emailjs/browser/es';
+import {FaLinkedin,FaGithub} from 'react-icons/fa'
 // import contactImg from "./img/about-9.jpg"
 function Contact() {
     const form = useRef();
@@ -22,8 +23,12 @@ function Contact() {
   };
     return (
         <div className="contact component__space" id="Contact">
+            <div className='iconss'>
+            <span><a href='https://github.com/Jayaprakash-gajarajan' className='icons' target='_blank'><FaGithub/></a><a href='https://www.linkedin.com/in/jaya-prakash-2959b8234' className='icons' target='_blank'><FaLinkedin/></a></span>
+          
+          </div>
             <div className="row">
-                <div className="col__2">
+                <div className="col__2" style={{padding:"0px"}}>
                     <div className="contact__box">
                         <div className="contact__meta">
                             <h1 className="hire__text">Hire Me.</h1>
