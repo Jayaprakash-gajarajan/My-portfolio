@@ -38,7 +38,7 @@ function About() {
                 </span>
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://drive.google.com/file/d/1sBZPteTn_8gZ8dwTyw0a6pomgNm6aMwP/view?usp=sharing" target={"_blank"}>
+                <a href="https://drive.google.com/file/d/1YC_1YBENTG6dglqT69BNT6TyRK5SZeos/view?usp=sharing" target={"_blank"}>
                   <button className="about btn pointer" >Open Cv</button>
                 </a>
                 <a href="#Contact">
